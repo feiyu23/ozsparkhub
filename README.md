@@ -1,9 +1,19 @@
 # 🌟 OzSparkHub - Your Australian Employment Services Intelligence Hub
 
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/feiyu23/ozsparkhub?style=social)
+![GitHub forks](https://img.shields.io/github/forks/feiyu23/ozsparkhub?style=social)
+![GitHub issues](https://img.shields.io/github/issues/feiyu23/ozsparkhub)
+![GitHub last commit](https://img.shields.io/github/last-commit/feiyu23/ozsparkhub)
+![License](https://img.shields.io/github/license/feiyu23/ozsparkhub)
+
+</div>
+
 > **Empowering Australian job seekers, employment service providers, and HR professionals with data-driven insights, AI-powered tools, and compliance solutions.**
 
 [![Website](https://img.shields.io/badge/Website-www.ozsparkhub.com.au-blue?style=for-the-badge)](https://www.ozsparkhub.com.au)
-[![AI Store](https://img.shields.io/badge/AI_Store-store.ozsparkhub.com.au-orange?style=for-the-badge)](https://store.ozsparkhub.com.au)
+[![Digital Store](https://img.shields.io/badge/Store-store.ozsparkhub.com.au-orange?style=for-the-badge)](https://store.ozsparkhub.com.au)
 [![Biz Tools](https://img.shields.io/badge/Biz_Tools-biz.ozsparkhub.com.au-green?style=for-the-badge)](https://biz.ozsparkhub.com.au)
 [![Knowledge Base](https://img.shields.io/badge/Docs-docs.ozsparkhub.com.au-purple?style=for-the-badge)](https://docs.ozsparkhub.com.au)
 
@@ -224,6 +234,23 @@ We believe:
 - [ ] Government contractor directory
 - [ ] Job board integration
 - [ ] Certification programs for employment consultants
+
+---
+
+## 🌟 Community Resources
+
+### 📚 Awesome List
+Check out our curated **[Awesome Australian Employment Resources](awesome-australian-employment.md)** list - a comprehensive collection of:
+- 🏛️ Official government resources
+- 💰 Salary benchmarking tools
+- 🎯 Interview preparation guides
+- 📈 Career development platforms
+- ✅ Compliance and HR resources
+- 🔍 Job search platforms
+- 📄 Professional templates
+- 📰 Industry news and insights
+
+**⭐ Star and share if you find it useful!**
 
 ---
 
